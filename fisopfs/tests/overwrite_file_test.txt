@@ -1,0 +1,15 @@
+
+
+Test comenzando...
+-------------------------------------------------------------
+------------------------<<_cat test_>>-----------------------
+Cambiando a directorio de pruebas...
+Ejecutando => cd 'directorio de pruebas'
+Ejecutando => echo hola mundo! > new_file_A
+------------------------------
+Resultado:
+------------------------------
+Ejecutando => echo | cat new_file_A
+adios mundo!
+-------------------------------------------------------------
+Test end

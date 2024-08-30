@@ -1,0 +1,22 @@
+
+
+Test comenzando...
+-------------------------------------------------------------
+------------------------<<_rm test_>>------------------------
+Cambiando a directorio de pruebas...
+Ejecutando => cd 'directorio de pruebas'
+Ejecutando => ls
+new_file_A
+new_file_B
+new_folder_A
+new_folder_B
+Ejecutando => rm new_file_A
+------------------------------
+Resultado:
+------------------------------
+Ejecutando => ls
+new_file_B
+new_folder_A
+new_folder_B
+-------------------------------------------------------------
+Test end

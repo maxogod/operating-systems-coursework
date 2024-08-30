@@ -1,0 +1,17 @@
+
+
+Test comenzando...
+-------------------------------------------------------------
+----------------------<<_mkdir test_>>-----------------------
+Cambiando a directorio de pruebas...
+Ejecutando => cd 'directorio de pruebas'
+Ejecutando => ls
+Ejecutando => mkdir new_folder_A new_folder_B
+------------------------------
+Resultado:
+------------------------------
+Ejecutando => ls
+new_folder_A
+new_folder_B
+-------------------------------------------------------------
+Test Finalizado.

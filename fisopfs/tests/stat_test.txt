@@ -1,0 +1,14 @@
+
+
+Test comenzando...
+-------------------------------------------------------------
+-----------------------<<_stat test_>>-----------------------
+Cambiando a directorio de pruebas...
+Ejecutando => cd 'directorio de pruebas'
+Ejecutando => stat new_file_A
+------------------------------
+Resultado:
+------------------------------
+  File: new_file_A
+-------------------------------------------------------------
+Test end

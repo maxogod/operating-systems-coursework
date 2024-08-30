@@ -1,0 +1,10 @@
+fisopfs
+*.o
+.vscode
+.vscode/
+.idea
+.idea/
+*/.idea/
+prueba
+save.fisopfs
+*.fisopfs
